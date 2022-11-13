@@ -5,4 +5,9 @@
 5. git push [rep_link] [branch_name]
 
 git push origin master
-123
+
+git reset - убрать из stage
+
+git diff - смотреть все строки которые писали и удаляли
+
+git resert --hard удалить все изменения 
