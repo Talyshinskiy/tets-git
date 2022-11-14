@@ -18,3 +18,6 @@ feature/main-page - главная страница
 feature/about-company - ветка об странице компании
 
 11. git checkout - переключаться между веток
+
+12. git merge
+13. git branch -d [name branch]- удалить ветку
